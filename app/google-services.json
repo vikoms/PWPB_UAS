@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935717266612",
+    "firebase_url": "https://uas-pwpb.firebaseio.com",
+    "project_id": "uas-pwpb",
+    "storage_bucket": "uas-pwpb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935717266612:android:76f5dd2030ebd0dc9763e1",
+        "android_client_info": {
+          "package_name": "com.example.uaspwpb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935717266612-lla26vr1jte5ljnlj6ok4qjmbrl2ronp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uaspwpb",
+            "certificate_hash": "1dd18e4a19801d6facbafc0b659dea205937bb97"
+          }
+        },
+        {
+          "client_id": "935717266612-oi6nv1eii2sgorpmn5pnk2kuh49ctnk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZTMygS4MBpS3YfDCR7hu1QBHy68UODww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935717266612-oi6nv1eii2sgorpmn5pnk2kuh49ctnk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
